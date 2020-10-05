@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Panstagram
 //
-//  Created by MaKayla Day on 10/5/20.
+//  Created by Daniel Jamsheedy on 10/5/20.
 //  Copyright © 2020 Codepath. All rights reserved.
 //
 

@@ -7,6 +7,7 @@ target 'Panstagram' do
 
   # Pods for Panstagram
   pod 'Parse'
+  pod "AlamofireImage"
 
   target 'PanstagramTests' do
     inherit! :search_paths
