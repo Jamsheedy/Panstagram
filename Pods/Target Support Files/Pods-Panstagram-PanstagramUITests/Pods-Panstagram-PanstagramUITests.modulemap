@@ -1,0 +1,6 @@
+framework module Pods_Panstagram_PanstagramUITests {
+  umbrella header "Pods-Panstagram-PanstagramUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
